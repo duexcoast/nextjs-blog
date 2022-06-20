@@ -22,10 +22,10 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I'm a self-taught web devloper coding my way through life.</p>
+        <p>I'm a self-taught web devloper, making my way one loop at a time.</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          I try to do what I can to make that world a better place, my biggest
+          contribution is not having a podcast.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
